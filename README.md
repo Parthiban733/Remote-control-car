@@ -15,3 +15,5 @@
    ![joystick](https://github.com/Parthiban733/Remote-control-car/assets/170818735/6c2bf3fa-0914-4226-bc05-898b5a52f5d3)
 
 
+     # Car circuit diagram:
+     ![Screenshot 2024-05-26 062656](https://github.com/Parthiban733/Remote-control-car/assets/170818735/22ba7b32-d393-457d-b7a3-1ef325167a04)
