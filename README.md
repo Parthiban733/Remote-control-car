@@ -12,4 +12,5 @@
 # Circuit Diagram:
      # Joystick circuit diagram:
        
-    ![joystic](https://github.com/Parthiban733/Remote-control-car/assets/170818735/bac27040-dc76-4f2e-87fb-68ae85b7a85a)
+    ![Screenshot 2024-05-26 062656](https://github.com/Parthiban733/Remote-control-car/assets/170818735/a637a4f7-c36c-45a7-8dba-66babb4095e4)
+
