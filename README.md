@@ -16,4 +16,8 @@
 
 
      # Car circuit diagram:
-     ![Screenshot 2024-05-26 062656](https://github.com/Parthiban733/Remote-control-car/assets/170818735/22ba7b32-d393-457d-b7a3-1ef325167a04)
+
+    
+     
+![car](https://github.com/Parthiban733/Remote-control-car/assets/170818735/fc84bd76-e808-4495-b8f2-15a95e2ae4e7)
+
