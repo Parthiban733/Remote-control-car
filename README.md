@@ -21,3 +21,12 @@
      
 ![car](https://github.com/Parthiban733/Remote-control-car/assets/170818735/fc84bd76-e808-4495-b8f2-15a95e2ae4e7)
 
+
+
+# Demo video and photos:
+
+   ![car](https://github.com/Parthiban733/Remote-control-car/assets/170818735/ba5accf4-6ff4-4155-a67e-a9178c594b06)
+
+   https://github.com/Parthiban733/Remote-control-car/assets/170818735/4f206273-6a51-4c91-b299-bb2cbe1e6e74
+
+ 
